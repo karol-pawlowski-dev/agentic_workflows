@@ -21,6 +21,8 @@ network:
 engine:
    id: copilot
    copilot-sdk: true
+   fallback-models:
+    - gpt-6-luna
 ---
 
 # Update Mona's GitHub Info website
