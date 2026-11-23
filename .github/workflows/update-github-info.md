@@ -35,7 +35,7 @@ Use these sources:
 - Awesome Copilot workflows: https://awesome-copilot.github.com/workflows/
 
 Web-fetch https://awesome-copilot.github.com/workflows/ for recent workflow
-examples and updates.
+examples and updates. If it returns an error try https://github.com/github/awesome-copilot/tree/main/workflows
 
 Update `site/content/github-info.md` with concise,
 practical updates for readers and include source context when content comes
