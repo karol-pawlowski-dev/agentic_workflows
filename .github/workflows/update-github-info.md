@@ -21,7 +21,7 @@ network:
 engine:
    id: copilot
    copilot-sdk: true
-   model: auto-free
+   model: auto
 ---
 
 # Update Mona's GitHub Info website
